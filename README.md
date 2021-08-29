@@ -6,11 +6,11 @@ https://youtu.be/qjfb4_BUEa8
  
  본 프로젝트 SpeakUP은 통역 학습자가 통역음성을 전사하는 과정을 돕는 과제수행 환경을 제공한다.
  
- - SpeakUP 전사알고리즘 레포지토리: https://github.com/EwhaSpeakUP/SpeakUP
+ - SpeakUP 전사알고리즘 레포지토리: https://github.com/EwhaSpeakUP/SpeakUP_ML
  
  - SpeakUP 서버 레포지토리: https://github.com/EwhaSpeakUP/SpeakUP_Server
  
- - SpeakUP 안드로이드 레포지토리: https://github.com/EwhaSpeakUP/android
+ - SpeakUP 안드로이드 레포지토리: https://github.com/EwhaSpeakUP/SpeakUP_Android
  
 ### 문제 정의
 1) 전사자료를 만들 때 시간이 많이 소요되고, 기존 STT는 추임새, 침묵구간을 표시해주지 못한다.
